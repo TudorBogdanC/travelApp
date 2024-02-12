@@ -104,8 +104,6 @@ const CardsGallery = () => {
                         price="2250"
                         time="2 weeks"
                     />
-                     
-                  
                 </Masonry>
             </ResponsiveMasonry>
         </Container>
